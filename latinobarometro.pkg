@@ -1,0 +1,15 @@
+v 3
+d latinobarometro. Load, harmonize, and enrich Latinobarometro survey waves
+d
+d Downloads a Latinobarometro survey wave directly from latinobarometro.org,
+d optionally harmonizes variable names with the official time-series crosswalk,
+d and optionally constructs country-population-scaled weights for pooled analysis.
+d
+d Requires: Stata version 14 or later
+d Optional dependency for addpopulation: wbopendata
+d
+d Author: Jorge Soler-Lopez, Bocconi University
+d Support: jorge.solerlopez@phd.unibocconi.it
+d Distribution-Date: 20260715
+f latinobarometro.ado
+f latinobarometro.sthlp

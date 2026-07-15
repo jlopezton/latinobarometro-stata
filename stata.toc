@@ -1,0 +1,3 @@
+v 3
+d Latinobarometro Stata package
+p latinobarometro Load, harmonize, and enrich Latinobarometro survey waves
