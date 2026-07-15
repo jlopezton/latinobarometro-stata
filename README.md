@@ -86,4 +86,4 @@ Latinobarometro’s terms, not by the code license.
 
 ## Thanks to
 
-This package was originally developed as an internal repository pulling command by Germán Reyes (World Bank-Cornell).
+This package was originally developed as an internal repository pulling command by Germán Reyes (World Bank-Cornell). Although I've been using beta versions of the program for years now, I finally came to 'formalize' the program recently using a mix of old code and the help of Claude.
