@@ -19,29 +19,21 @@ The command downloads survey data directly from Latinobarometro and does not red
 
 ## Installation
 
-### From GitHub
-
-After replacing `<USERNAME>` and `<REPOSITORY>` with this repository's values:
-
-```stata
-net install latinobarometro, ///
-    from("https://raw.githubusercontent.com/jlopezton/latinobarometro-stata/main/")
-```
-
-To update an existing installation:
-
-```stata
-net install latinobarometro, ///
-    from("https://raw.githubusercontent.com/jlopezton/latinobarometro-stata/main/") replace
-```
-
 ### From SSC
 
-Once the package is accepted by SSC:
+The easiest way is to download using SSC:
 
 ```stata
 ssc install latinobarometro
 ```
+
+### From GitHub
+I keep an updated copy in my github too:
+
+```stata
+net install latinobarometro, from("https://raw.githubusercontent.com/jlopezton/latinobarometro-stata/main/")
+```
+
 
 ## Usage
 
